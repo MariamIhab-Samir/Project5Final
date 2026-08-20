@@ -131,4 +131,4 @@
 | Ingress | External traffic entry point, routing rules | Routes public requests to the right Service (e.g. `/api` → backend Service) |
 | Self-healing | Restarts/replaces failed Pods automatically | If a backend Pod crashes, Kubernetes replaces it without manual intervention |
 | Auto-scaling | Adjusts replica count based on load | More backend Pods spun up automatically during high traffic |
-# testing CI #
+# testing CI ###
